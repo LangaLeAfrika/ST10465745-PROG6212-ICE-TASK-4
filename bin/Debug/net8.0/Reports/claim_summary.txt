@@ -1,0 +1,21 @@
+CONTRACT CLAIM SUMMARY
+======================
+
+Claim ID: 1
+Lecturer Name: Nomsa Mthembu
+Module Code: PROG6212
+Hours Worked: 10,0
+Hourly Rate: R350,00
+Claim Month: September 2026
+Status: Submitted
+Total Amount: R3500,00
+--------------------------------------
+Claim ID: 2
+Lecturer Name: Sibusiso Khumalo
+Module Code: PROG6212
+Hours Worked: 6,0
+Hourly Rate: R300,00
+Claim Month: September 2026
+Status: Draft
+Total Amount: R1800,00
+--------------------------------------
